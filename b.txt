@@ -1,1 +1,1 @@
-b.txt file
+b.txt file is modified
